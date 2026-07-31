@@ -25,6 +25,12 @@ Chatbot
 Employee Bonus Calculator
 `````
 `````
+Factorial
+`````
+`````
+Fibonacci
+`````
+`````
 Login System
 `````
 `````
