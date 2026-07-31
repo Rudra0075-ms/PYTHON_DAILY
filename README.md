@@ -22,6 +22,9 @@ Calculator
 Chatbot
 `````
 `````
+Compound Interest
+`````
+`````
 Employee Bonus Calculator
 `````
 `````
