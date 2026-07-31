@@ -7,7 +7,7 @@ This repository contains a collection of basic Python projects created for learn
 All files are saved in .py files because .py is the extension for Python language
 `````
 `````
-Projects
+Projects:
 `````
 `````
 Age Calculator
