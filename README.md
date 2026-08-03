@@ -11,10 +11,6 @@ Python library is also used in some of the programs.
 
 The programs are simple, easy to understand, and suitable for students who are starting their Python programming journey.
 
-
-`````
-`````
-
 All files are saved in .py files because .py is the extension for Python language.
 
 `````
