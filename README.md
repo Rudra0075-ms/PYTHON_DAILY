@@ -6,5 +6,5 @@ Each project is beginner-friendly and focuses on fundamental concepts such as us
 The programs are simple, easy to understand, and suitable for students who are starting their Python programming journey.
 `````
 `````
-All files are saved in .py files because .py is the extension for Python language
+All files are saved in .py files because .py is the extension for Python language.
 `````
