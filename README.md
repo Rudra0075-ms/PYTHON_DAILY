@@ -13,6 +13,8 @@ Python Daily Projects
 
 -All files are saved in .py files because .py is the extension for Python language.
 
+-vs code, google colab, jupyter lab, python idle
+
 more projects on the way....!!!!
 
 `````
