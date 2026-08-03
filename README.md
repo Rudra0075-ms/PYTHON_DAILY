@@ -1,5 +1,6 @@
 
 `````
+
 Python Daily Projects
 
 This repository contains a collection of basic Python projects created for learning and practicing Python programming.
@@ -13,5 +14,7 @@ The programs are simple, easy to understand, and suitable for students who are s
 
 `````
 `````
+
 All files are saved in .py files because .py is the extension for Python language.
+
 `````
