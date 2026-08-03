@@ -17,7 +17,7 @@ Python Daily Projects
 
 -Taking notes from krish naik's agentic ai bootcamp (udemy)
 
--Pursuing a python based virtual internship
+-Pursuing a python based virtual internship.
 
 !!!!....more projects on the way....!!!!
 
