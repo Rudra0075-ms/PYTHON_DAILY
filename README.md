@@ -7,6 +7,8 @@ Python Daily Projects
 
 -Each project is beginner-friendly and focuses on fundamental concepts such as user input, variables, operators, conditional statements, loops, functions.
 
+-Added OOPs topic program (Object Oriented Programming)
+
 -Python library is also used in some of the programs.
 
 -The programs are simple, easy to understand.
