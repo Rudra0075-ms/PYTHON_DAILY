@@ -15,7 +15,7 @@ Python Daily Projects
 
 -vs code, google colab, jupyter lab, python idle
 
--Taking notes from krish naik's agentic ai bootcamp (udemy)
+-Taking notes from krish naik's agentic ai bootcamp (udemy), bro codes (youtube)
 
 -Pursuing a python based virtual internship.
 
