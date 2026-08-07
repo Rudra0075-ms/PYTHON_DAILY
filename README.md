@@ -19,7 +19,7 @@ Python Daily Projects
 
 -Pursuing a python based virtual internship.
 
--Created a new repository 
+-Created a new repository for python mini projects.
 
 
 
