@@ -9,16 +9,23 @@ Python Daily Projects
 
 -Python library is also used in some of the programs.
 
--The programs are simple, easy to understand, and suitable for students who are starting their Python programming journey.
+-The programs are simple, easy to understand.
 
 -All files are saved in .py files because .py is the extension for Python language.
 
--vs code, google colab, jupyter lab, python idle
+-Code Editor: vs code, google colab, jupyter lab, python idle
 
--Taking notes from krish naik's agentic ai bootcamp (udemy), bro codes (youtube)
+-Taking notes from krish naik's agentic ai bootcamp (udemy), bro codes (youtube), code with harry (youtube)
 
 -Pursuing a python based virtual internship.
 
+-Created a new repository 
+
+
+
 !!!!....more projects on the way....!!!!
+
+
+
 
 `````
