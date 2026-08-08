@@ -23,8 +23,6 @@ Python Daily Projects
 
 -Created a new repository for python mini projects.
 
-
-
 !!!!....more projects on the way....!!!!
 
 
