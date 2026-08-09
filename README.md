@@ -13,6 +13,8 @@ Python Daily Projects
 
 -The programs are simple, easy to understand.
 
+-Added library function to it.
+
 -All files are saved in .py files because .py is the extension for Python language.
 
 -Code Editor: vs code, google colab, jupyter lab, python idle
