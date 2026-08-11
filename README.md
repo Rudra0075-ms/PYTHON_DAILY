@@ -1,7 +1,7 @@
 
 `````
 
-Python Daily Projects
+Python Daily Projects          
 
 -This repository contains a collection of basic Python projects created for learning and practicing Python programming.
 
