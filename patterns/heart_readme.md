@@ -1,4 +1,4 @@
-# ❤️ Python Turtle Heart
+# ❤️ Python Turtle Heart (.py)
 
 ## Simple Explanation
 
@@ -22,7 +22,7 @@
 **Setup → Set Colors → Start Fill → Draw Lines & Curves → Fill Heart →
 Finish**
 
-## ❤️ Shape Flow
+## ❤️ Shape Flow          
 
 ``` text
 Start
