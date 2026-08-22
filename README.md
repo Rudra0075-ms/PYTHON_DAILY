@@ -24,6 +24,8 @@ Python Daily Projects   !!!
 
 -Created a new repository for python mini projects.
 
+-Started csv automation
+
 !!!!....more projects on the way....!!!!
 
 
