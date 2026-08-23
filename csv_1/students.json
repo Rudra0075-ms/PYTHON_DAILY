@@ -1,0 +1,27 @@
+[
+    {
+        "Name":"Rahul",
+        "Age":19,
+        "Branch":"CSE"
+    },
+    {
+        "Name":"Aman",
+        "Age":20,
+        "Branch":"AIML"
+    },
+    {
+        "Name":"John",
+        "Age":20,
+        "Branch":"CSE"
+    },
+    {
+        "Name":"Priya",
+        "Age":19,
+        "Branch":"AIML"
+    },
+    {
+        "Name":"Madhab",
+        "Age":18,
+        "Branch":"AIML"
+    }
+]
