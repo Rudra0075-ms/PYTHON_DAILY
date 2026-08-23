@@ -26,6 +26,8 @@ Python Daily Projects  !!!
 
 -Started csv automation.....!!!!!!!!
 
+-For csv files refer to their .csv files for clarification...
+
 !!!!....more projects on the way....!!!!
 
 
