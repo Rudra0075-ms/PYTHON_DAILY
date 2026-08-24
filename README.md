@@ -28,6 +28,8 @@ Python Daily Projects  !!!
 
 -For csv files refer to their .csv files for clarification...
 
+-Csv file conversions...
+
 !!!!....more projects on the way....!!!!
 
 
