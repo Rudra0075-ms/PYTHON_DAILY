@@ -8,6 +8,8 @@ Python Daily Projects  !!!
 
 -Added OOPs topic program (Object Oriented Programming)
 
+-OOPS in .ipynb files (jupyter files)
+
 -Python library is also used in some of the programs.
 
 -The programs are simple, easy to understand.
@@ -20,7 +22,6 @@ Python Daily Projects  !!!
 
 -Taking notes from krish naik's agentic ai bootcamp (udemy), bro codes (youtube), code with harry (youtube)
 
---OOPS in .ipynb files 
 
 -Pursuing a python full stack virtual internship.  !
 
