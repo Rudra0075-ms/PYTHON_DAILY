@@ -4,7 +4,7 @@ Python Daily Projects  !!!
 
 -This repository contains a collection of basic Python projects created for learning and practicing Python programming.
 
--Using the python package by anaconda
+-Using the python package by anaconda.
 
 -Each program is beginner-friendly and focuses on fundamental concepts such as user input, variables, operators, conditional statements, loops, functions.
 
