@@ -20,7 +20,7 @@ Python Daily Projects  !!!
 
 -Taking notes from krish naik's agentic ai bootcamp (udemy), bro codes (youtube), code with harry (youtube)
 
--Pursuing a python based virtual internship.  !
+-Pursuing a python full stack virtual internship.  !
 
 -Created a new repository for python mini projects.
 
