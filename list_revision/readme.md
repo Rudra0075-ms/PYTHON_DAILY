@@ -1,5 +1,5 @@
 ```
 
-list is a data type 
+- list is a data type in python.
 
 ```
