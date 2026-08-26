@@ -4,4 +4,6 @@
 
 - list is mutable data type.
 
+- revising the list concept once again
+
 ```
