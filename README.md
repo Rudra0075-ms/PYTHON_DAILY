@@ -20,7 +20,7 @@ Python Daily Projects  !!!
 
 -All files are saved in .py files because .py is the extension for Python language.
 
--Code Editor: vs code, google colab, jupyter lab, python idle
+-Code Editor: vs code, google colab, jupyter lab, python idle, antigravity
 
 -Taking notes from krish naik's agentic ai bootcamp (udemy), bro codes (youtube), code with harry (youtube)
 
