@@ -35,6 +35,8 @@ Python Daily Projects  !!!
 
 -Csv file conversions...
 
+-Panda learning
+
 !!!!....more projects on the way....!!!!
 
 
