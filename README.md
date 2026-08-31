@@ -10,7 +10,7 @@ Python Daily Projects  !!!
 
 -Added OOPs topic program (Object Oriented Programming)
 
--OOPS in .ipynb files (jupyter files)
+-OOPS in .ipynb files (jupyter files)  
 
 -Python library is also used in some of the programs.
 
