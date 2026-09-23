@@ -37,6 +37,8 @@ Python Daily Projects  !
 
 -Panda learning (filtering)
 
+-Uploading a practice set soon..
+
 -Will be adding some practice sets soon....!!!
 
 !!!!....more projects on the way....!!!!
