@@ -33,7 +33,7 @@ Python Daily Projects  !
 
 -For csv files refer to their .csv files for clarification...
 
--Csv file conversions...
+-Csv file conversions... (.csv)
 
 -Panda learning (filtering)
 
