@@ -34,6 +34,8 @@ Python Daily Projects  !!!!
 
 -Csv file conversions... (.csv)
 
+-Adding File Handling
+
 -Panda learning (filtering)
 
 -Added some practice sets soon....!!!
