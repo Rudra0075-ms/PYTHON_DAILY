@@ -40,7 +40,7 @@ Python Daily Projects  !!!!
 
 -Added some practice sets soon....!!!
 
-!!!!....more projects on the way....!!!!
+!!!!....more projects on the way....!!!!..
 
 " "
 ...
