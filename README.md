@@ -50,3 +50,5 @@ Most scripts use Python's standard library and can be run independently. Some ex
 This is a personal practice repository. The programs are kept as individual exercises so each concept can be explored separately. Existing code and supporting CSV/JSON/Excel files are preserved during this reorganisation; the program logic is not intentionally changed.
 
 More exercises will be added as I continue learning.
+
+
